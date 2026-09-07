@@ -60,6 +60,10 @@
       "date": "2026-09-06T18:16:28.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/ci-cd/runner-tools/grit/-/merge_requests/433"
     },
+    "ad8eb0e8888c4f7afdcbe4e2dd480ce24b434dd0": {
+      "date": "2026-09-07T22:09:21.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/253823"
+    },
     "bee572c661369fa05a79f7f8317eb76ae7cfeb31": {
       "date": "2026-09-07T17:10:34.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/charts/ai-gateway-helm-chart/-/merge_requests/64"
