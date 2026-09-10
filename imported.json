@@ -112,6 +112,10 @@
       "date": "2026-09-05T20:12:45.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/charts/ai-gateway-helm-chart/-/merge_requests/64"
     },
+    "c09ed18e196a01ae758abbd72545a3dbc4e5f4c4": {
+      "date": "2026-09-10T17:32:06.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/254734"
+    },
     "c37d2aadf512a59473ac7b61bfcf67a7d8bc210f": {
       "date": "2026-09-10T14:24:44.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/254613"
