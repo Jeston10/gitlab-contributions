@@ -936,6 +936,10 @@
       "date": "2026-09-24T16:17:39.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/255224"
     },
+    "a756d1914016ca55a324a33bf82401b1490374ec": {
+      "date": "2026-09-13T10:36:46.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/terraform-provider-gitlab/-/merge_requests/3274"
+    },
     "a761ec8f8ce9347a4ddf7d18460ffd5b804da9b3": {
       "date": "2026-09-10T02:18:43.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/254598"
