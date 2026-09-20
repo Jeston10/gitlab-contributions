@@ -528,6 +528,10 @@
       "date": "2026-09-10T01:02:39.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/cloud-native/charts/gitlab-dev-stack/-/merge_requests/20"
     },
+    "95f7c6dffe545049492b66b9b6c5633b7694ff29": {
+      "date": "2026-09-20T11:56:13.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/254769"
+    },
     "96aa678f338a0330ec9331dbfc79599d63bf9828": {
       "date": "2026-09-24T17:55:38.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/255144"
