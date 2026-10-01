@@ -948,6 +948,10 @@
       "date": "2026-09-10T04:50:48.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/ruby/gems/labkit-ruby/-/merge_requests/358"
     },
+    "afa90cee724ddd613d4f06a32861322af9c951c1": {
+      "date": "2026-10-01T10:10:03.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/257972"
+    },
     "afec50015987b423dddd05817cc9b0b681458d6e": {
       "date": "2026-09-17T03:09:09.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/255236"
