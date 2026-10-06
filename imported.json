@@ -276,6 +276,10 @@
       "date": "2026-09-14T21:32:02.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/cli/-/merge_requests/3898"
     },
+    "30b67d0e93d61de5f82931b49a7bfb36d25b5e78": {
+      "date": "2026-10-06T22:07:29.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/caproni/-/merge_requests/958"
+    },
     "31ef96b6077e7b816bea011f2d8b9d5722686ea8": {
       "date": "2026-09-14T12:19:39.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/cli/-/merge_requests/3900"
