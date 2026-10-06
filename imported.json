@@ -752,6 +752,10 @@
       "date": "2026-09-13T16:03:12.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/255230"
     },
+    "842386d85852df51c596d9bde6a581eae2821329": {
+      "date": "2026-10-06T22:58:52.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-com/gl-infra/common-ci-tasks/-/merge_requests/1932"
+    },
     "84d6dbc89dd3a339e633c350fe2d815edbbb6fbd": {
       "date": "2026-09-14T15:23:49.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/255143"
