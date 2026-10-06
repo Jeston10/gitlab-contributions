@@ -60,6 +60,10 @@
       "date": "2026-10-29T21:38:45.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/quality/triage-ops/-/merge_requests/4495"
     },
+    "0325311239b86ed477184656f1415b7b937e9096": {
+      "date": "2026-10-06T22:07:29.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/caproni/-/merge_requests/958"
+    },
     "03be36025b4b6eef9d5748fe0eeaaae4e494f2fa": {
       "date": "2026-10-27T14:25:24.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/257972"
