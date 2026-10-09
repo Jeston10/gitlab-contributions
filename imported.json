@@ -724,6 +724,10 @@
       "date": "2026-09-13T11:11:08.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/omnibus-gitlab/-/merge_requests/9783"
     },
+    "6ff3429666ac21cdf5952aeca4920f29ae7d0fde": {
+      "date": "2026-10-09T23:36:29.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/261284"
+    },
     "705715e144e7b4f8c4a4f12ec9380a24078d5f1f": {
       "date": "2026-09-30T13:44:30.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/257972"
