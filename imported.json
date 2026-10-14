@@ -1,5 +1,9 @@
 {
   "imported": {
+    "00d7d8727fd92ad7b8155892741d60a5713eb6ac": {
+      "date": "2026-10-14T05:31:04.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/261284"
+    },
     "0113d4ec98d9411af80855cee4bc7b1f34afc652": {
       "date": "2026-10-10T16:10:02.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/editor-extensions/gitlab-lsp/-/merge_requests/4377"
