@@ -392,6 +392,10 @@
       "date": "2026-10-12T19:42:22.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitaly/-/merge_requests/9350"
     },
+    "332fc773a8d589ec65ad1f78589c95e52189eb1e": {
+      "date": "2026-10-18T16:31:42.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/7305"
+    },
     "336357902f5ad0723c7f20362d9f3ae5530f0e06": {
       "date": "2026-09-26T10:22:52.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/257972"
