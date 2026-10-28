@@ -1212,6 +1212,10 @@
       "date": "2026-09-14T11:41:27.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/255262"
     },
+    "7215d00b946c2741ab7a85f136559c463be66a9c": {
+      "date": "2026-10-28T10:52:35.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/265703"
+    },
     "72af6a9b7944b4bac6ed0fd309c3366dc75f3ca4": {
       "date": "2026-09-14T11:47:02.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/255264"
