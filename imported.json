@@ -304,6 +304,10 @@
       "date": "2026-11-02T10:44:45.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/144519"
     },
+    "18df63aced8389544d7c07513581ee59b03b1249": {
+      "date": "2026-10-28T21:51:30.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/265703"
+    },
     "1950d592061a22d4b730ebbb257e21a81a9dfd59": {
       "date": "2026-10-08T02:51:52.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/ops/registry-conformance/-/merge_requests/339"
