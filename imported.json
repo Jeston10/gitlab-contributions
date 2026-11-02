@@ -2280,6 +2280,10 @@
       "date": "2026-10-20T18:56:30.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/modelops/applied-ml/code-suggestions/ai-assist/-/merge_requests/7333"
     },
+    "bb582b9ec2ed0ede6050d48fa90b40d11fe70a86": {
+      "date": "2026-11-02T12:58:44.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/caproni/-/merge_requests/964"
+    },
     "bbcd7faea7034861546ab6a226f9fbdc9f3483d6": {
       "date": "2026-09-14T20:46:24.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/254598"
