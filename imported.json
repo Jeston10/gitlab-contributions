@@ -2508,6 +2508,10 @@
       "date": "2026-11-17T23:46:27.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/271890"
     },
+    "a4f4daaf15fb1c5f44bb13e7604d8bd57494da8e": {
+      "date": "2026-11-13T21:00:25.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/269486"
+    },
     "a52d8003f599236be0c477a858c948869971152e": {
       "date": "2026-09-06T14:02:30.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/modelops/applied-ml/code-suggestions/ai-assist/-/merge_requests/6782"
