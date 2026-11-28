@@ -3040,6 +3040,10 @@
       "date": "2026-10-08T11:27:57.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-org/ops/registry-conformance/-/merge_requests/339"
     },
+    "c06ad6ef657f37d9e8537097a25ceb4fdf370b36": {
+      "date": "2026-11-28T13:31:52.000+05:30",
+      "mr_url": "https://gitlab.com/gitlab-org/gitlab/-/merge_requests/269486"
+    },
     "c08b0729892192188c3dd70f55772a1766fee1a0": {
       "date": "2026-10-18T09:33:38.000+05:30",
       "mr_url": "https://gitlab.com/gitlab-com/gl-infra/common-ci-tasks/-/merge_requests/1932"
